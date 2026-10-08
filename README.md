@@ -1,146 +1,177 @@
 <div align="center">
 
-# 👋 Hey, I'm **Satyam Verma**
+# ⚡ SATYAM VERMA
 
-### `Full-Stack Developer` · `AI Builder` · `Problem Solver`
+### Full-Stack Developer · AI Builder · Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Real-World+Digital+Solutions;Full-Stack+Web+%26+Android+Development;AI-Powered+Applications;GovTech+%7C+Cloud+%7C+Modern+Databases;Turning+Ideas+into+Working+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Real-World+Digital+Solutions;Full-Stack+Web+%26+Android+Development;AI-Powered+Applications;GovTech+%7C+Cloud+%7C+Modern+Databases;Turning+Ideas+Into+Working+Products" />
 
 <br/>
 
 <a href="https://github.com/satyam-codes-5111">
-<img src="https://img.shields.io/github/followers/satyam-codes-5111?style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://github.com/satyam-codes-5111?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🚀 Who Am I?
+<div align="center">
 
-I'm a developer focused on building **practical, production-oriented software** rather than just demo projects.
+### `BUILD • LEARN • DEPLOY • IMPROVE`
 
-My work combines:
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a developer focused on building **practical, scalable and user-focused software**.
+
+My work sits at the intersection of:
+
+```text
+        REAL-WORLD PROBLEM
+                 │
+                 ▼
+          SYSTEM DESIGN
+                 │
+                 ▼
+          DEVELOPMENT
+                 │
+        ┌────────┴────────┐
+        ▼                 ▼
+      WEB               MOBILE
+        │                 │
+        └────────┬────────┘
+                 ▼
+             DEPLOYMENT
+                 │
+                 ▼
+          REAL-WORLD IMPACT
+```
+
+### Current Focus
 
 * 🌐 Full-Stack Web Development
 * 🤖 AI-powered applications
 * 🏛️ Government & Public-Service Technology
 * 📱 Android applications
 * ☁️ Cloud deployment
-* 🗄️ Modern database architecture
-* 🔐 Authentication & role-based security
-
-> **I like taking a real-world problem → designing the system → building the product → deploying it.**
+* 🗄️ PostgreSQL & modern databases
+* 🔐 Secure application architecture
 
 ---
 
-# 🏆 Flagship Project
+# 🏛️ FLAGSHIP PROJECT
 
 <div align="center">
 
-## 🏛️ e-Maap Verify
+## e-Maap Verify
 
-### **Online Verification System for Weighing & Measuring Instruments**
+### Online Verification System for Weighing & Measuring Instruments
 
 </div>
 
-A digital Legal Metrology platform designed to modernize the verification lifecycle of weighing and measuring instruments.
+> A digital platform designed to modernize the Legal Metrology verification lifecycle through online workflows, inspection scheduling, field verification, digital certificates and QR-based public verification.
 
-### ⚡ What it does
+### System Flow
 
 ```text
-Application
-    ↓
-Document & Instrument Verification
-    ↓
-Inspection Scheduling
-    ↓
-Field Officer Assignment
-    ↓
-GPS + Photo Evidence
-    ↓
-Verification
-    ↓
-Digital Certificate
-    ↓
-QR Code Verification
+APPLICATION
+     │
+     ▼
+DOCUMENT & INSTRUMENT VERIFICATION
+     │
+     ▼
+INSPECTION SCHEDULING
+     │
+     ▼
+FIELD OFFICER ASSIGNMENT
+     │
+     ▼
+GPS + PHOTO EVIDENCE
+     │
+     ▼
+VERIFICATION
+     │
+     ▼
+DIGITAL CERTIFICATE
+     │
+     ▼
+QR PUBLIC VERIFICATION
 ```
 
-### 🔥 Key Features
+### Core Capabilities
 
-| Feature               | Description                                |
-| --------------------- | ------------------------------------------ |
-| 🔐 RBAC               | Secure role-based access                   |
-| 📋 Applications       | Digital application workflow               |
-| 🗓️ Scheduling        | Automated + editable inspection scheduling |
-| 📍 Field Verification | Location-aware field workflow              |
-| 📸 Evidence           | Photo & inspection evidence                |
-| 📜 Certificates       | Digital statutory certificates             |
-| 🔎 QR Verification    | Public certificate verification            |
-| 📱 Android            | Mobile application support                 |
-| 📊 Dashboard          | Role-specific operational dashboards       |
+| Capability            | Purpose                         |
+| --------------------- | ------------------------------- |
+| 🔐 RBAC               | Secure role-based access        |
+| 📋 Applications       | Digital application workflow    |
+| 🗓️ Scheduling        | Automated + editable scheduling |
+| 📍 Field Verification | Location-aware inspections      |
+| 📸 Evidence           | Photo & inspection evidence     |
+| 📜 Certificates       | Digital certificate generation  |
+| 🔎 QR Verification    | Public certificate verification |
+| 📱 Android            | Mobile application support      |
+| 📊 Dashboards         | Role-specific operations        |
 
-### 🧰 Technology
+### Technology
+
+<div align="center">
 
 `React` `Node.js` `Express` `PostgreSQL` `Supabase` `JWT` `REST API` `Android` `Capacitor`
 
+</div>
+
 ---
 
-# 💎 Selected Projects
+# 💎 SELECTED PROJECTS
 
-## 🏫 School Management System
+### 🏫 School Management System
 
-A secure role-based school management platform.
+A secure role-based school management platform for managing students, teachers and academic operations.
 
-**Core modules**
+**Modules**
 
-`Admin` · `Teacher` · `Student` · `Attendance` · `Marks` · `Authentication`
+`Admin` · `Teacher` · `Student` · `Attendance` · `Marks`
 
-**Stack**
+**Technology**
 
 `React` · `Node.js` · `Express` · `MongoDB` · `JWT` · `bcrypt`
 
 ---
 
-## ❄️ AI Smart Energy Management System
+### ❄️ AI Smart Energy Management System
 
 An AI-driven energy management concept designed for **Polar Research Stations**.
 
-### System monitors
+```text
+Station Telemetry
+       ↓
+Energy Monitoring
+       ↓
+Solar + Wind Generation
+       ↓
+AI Demand Prediction
+       ↓
+Energy Optimization
+       ↓
+Analytics Dashboard
+```
 
-* 🌡️ Station temperature
-* ⚡ Energy consumption
-* ☀️ Solar generation
-* 🌬️ Wind generation
-* 🤖 AI predicted demand
-* 📊 Energy analytics
-
-**Stack**
+**Technology**
 
 `React` · `JavaScript` · `AI` · `Data Visualization`
 
 ---
 
-## 🏥 MediKiosk
+### 🏥 MediKiosk
 
-A healthcare technology concept addressing the **clinical history-taking bottleneck** in high-volume Indian hospitals.
-
-### Goal
-
-```text
-Patient
-   ↓
-Digital History Collection
-   ↓
-Structured Medical Information
-   ↓
-Doctor Review
-   ↓
-More Efficient Consultation
-```
+A healthcare technology concept focused on reducing the clinical history-taking bottleneck in high-volume hospitals.
 
 **Focus**
 
@@ -148,7 +179,7 @@ More Efficient Consultation
 
 ---
 
-# 🧠 Technology Stack
+# 🧠 TECHNOLOGY STACK
 
 <div align="center">
 
@@ -168,7 +199,7 @@ More Efficient Consultation
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" />
 
-### Tools & Deployment
+### Development & Deployment
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,androidstudio" />
 
@@ -176,77 +207,84 @@ More Efficient Consultation
 
 ---
 
-# ⚙️ Engineering Focus
-
-```text
-┌─────────────────────────────────────────────┐
-│             WHAT I BUILD                    │
-├─────────────────────────────────────────────┤
-│                                             │
-│  🌐 Modern Web Applications                 │
-│  🤖 AI-Powered Systems                      │
-│  🏛️ GovTech Solutions                       │
-│  📱 Mobile Applications                     │
-│  🔐 Secure Authentication                   │
-│  🗄️ Database-Driven Platforms               │
-│  ☁️ Cloud-Deployed Applications             │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
----
-
-# 🔐 Security & Architecture
-
-I focus on building systems with proper application architecture rather than only frontend prototypes.
-
-### Areas I work with
-
-* JWT Authentication
-* Role-Based Access Control
-* Password Hashing
-* Protected APIs
-* Input Validation
-* Database Constraints
-* Secure API communication
-* Production deployment
-* Environment-based configuration
-
----
-
-# ☁️ Deployment & Infrastructure
-
-```text
-Frontend
-   │
-   ├── React / Vite
-   │
-   ▼
-Vercel
-   │
-   │ REST API
-   ▼
-Node.js / Express
-   │
-   ▼
-PostgreSQL / Supabase
-```
-
----
-
-# 📊 GitHub Analytics
+# ⚙️ ENGINEERING
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=satyam-codes-5111&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-codes-5111&layout=compact&hide_border=true&theme=github_dark" />
+| 🔐 Security |   🗄️ Data  |  ☁️ Cloud  | 🚀 Development |
+| :---------: | :---------: | :--------: | :------------: |
+|     JWT     |  PostgreSQL |   Vercel   |      React     |
+|     RBAC    |   Supabase  |   Render   |     Node.js    |
+|    bcrypt   |   MongoDB   | Cloud APIs |     Express    |
+|  Validation | Constraints | Deployment |    REST APIs   |
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔐 SECURITY MINDSET
+
+I focus on building applications with proper security and architecture rather than only creating frontend demonstrations.
+
+```text
+Authentication
+      +
+Authorization
+      +
+Input Validation
+      +
+Protected APIs
+      +
+Database Constraints
+      +
+Secure Configuration
+```
+
+---
+
+# ☁️ ARCHITECTURE
+
+```text
+                 ┌─────────────────┐
+                 │     CLIENT      │
+                 │ React / Android │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │    REST API     │
+                 │ Node / Express  │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │   APPLICATION   │
+                 │     LOGIC       │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │    DATABASE     │
+                 │ PostgreSQL /    │
+                 │    Supabase     │
+                 └─────────────────┘
+```
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=satyam-codes-5111&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-codes-5111&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+---
+
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
@@ -256,7 +294,7 @@ PostgreSQL / Supabase
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -266,73 +304,71 @@ PostgreSQL / Supabase
 
 ---
 
-# 🎯 Current Mission
+# 🎯 CURRENT MISSION
 
 <div align="center">
 
-### **Build → Deploy → Learn → Improve → Repeat**
+### BUILDING SOFTWARE THAT SOLVES REAL PROBLEMS.
 
 <br/>
 
-```text
-Real Problem
-     ↓
-System Design
-     ↓
-Development
-     ↓
-Testing & Security
-     ↓
-Cloud Deployment
-     ↓
-Real-World Impact
-```
+`Research` → `Design` → `Develop` → `Test` → `Deploy` → `Improve`
 
 </div>
 
 ---
 
-# 📚 Currently Exploring
-
-* 🤖 Artificial Intelligence
-* 🧠 AI-assisted software development
-* ☁️ Cloud architecture
-* 🗄️ PostgreSQL & modern databases
-* 🔐 Application security
-* 📱 Cross-platform applications
-* 🚀 Production deployment
-* 🏛️ Digital Government solutions
-
----
-
-# 🏅 What I Care About
+# 📚 CURRENTLY EXPLORING
 
 ```text
-Clean Architecture
-       +
-Good UX
-       +
-Security
-       +
-Scalability
-       +
-Real-World Impact
-       =
-Better Software
+Artificial Intelligence
+AI-Assisted Development
+Cloud Architecture
+PostgreSQL
+Application Security
+Android Development
+Production Deployment
+Government Technology
 ```
 
 ---
 
-# 🤝 Let's Build Something
+# 🧩 DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
-### Interested in technology, collaboration or building something useful?
+### Clean Architecture
+
+### +
+
+### Good UX
+
+### +
+
+### Security
+
+### +
+
+### Scalability
+
+### +
+
+### Real-World Impact
 
 <br/>
 
+## = Better Software
+
+</div>
+
+---
+
+# 🤝 CONNECT
+
+<div align="center">
+
 <a href="https://github.com/satyam-codes-5111">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
@@ -341,14 +377,12 @@ Better Software
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile
 
-**Building ideas into real software. 🚀**
-
-<img src="https://komarev.com/ghpvc/?username=satyam-codes-5111&style=flat-square&color=blue" />
+`Building ideas into real software.`
 
 </div>
